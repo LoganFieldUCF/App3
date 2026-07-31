@@ -1,6 +1,14 @@
 # App3
 https://wokwi.com/projects/468079615928883201
 
+# Concurrency Diagram
+
+<img width="677" height="729" alt="concurrencyDiagram" src="https://github.com/user-attachments/assets/8fe89f59-4fb9-4a42-b6d7-49284c867f7c" />
+
+# Logic Analyzer
+
+<img width="1070" height="844" alt="logicAnalyzer" src="https://github.com/user-attachments/assets/a9e7ea64-47ed-4d00-93bd-c0d2d5c0d6f9" />
+
 # App 3 scaffold — Interrupts & bottom-half
 
 Scaffold level: **~70% complete**.
